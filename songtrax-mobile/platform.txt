@@ -1,0 +1,1 @@
+Developed for Android, used Pixel 3 emulator and Galaxy S20 FE device.
